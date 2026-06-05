@@ -78,7 +78,7 @@ Pengguna dapat menarik layar ke bawah untuk memperbarui data cuaca.
 
 ### Empty State
 
-(beranda.jpeg)
+beranda.jpeg
 
 ### Loading State
 
