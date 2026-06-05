@@ -78,19 +78,19 @@ Pengguna dapat menarik layar ke bawah untuk memperbarui data cuaca.
 
 ### Empty State
 
-[beranda.jpeg]
+![Empty State](beranda.jpeg)
 
 ### Loading State
 
-(loading.jpeg)
+![Loading State](loading.jpeg)
 
 ### Success State
 
-(sukses.jpeg)
+![Success State](sukses.jpeg)
 
 ### Error State
 
-(error.jpeg)
+![Error State](error.jpeg)
 
 ---
 
